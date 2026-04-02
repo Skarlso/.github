@@ -15,7 +15,7 @@ Thank you for taking the time to contribute to OCM.
     - [Pull Request Process](#pull-request-process)
     - [Style Guidelines](#style-guidelines)
   - [Release Process](#release-process)
-  - [Guideline for AI-generated code contributions to SAP Open Source Software Projects](#guideline-for-ai-generated-code-contributions-to-sap-open-source-software-projects)
+  - [Guideline for AI-generated code contributions to Open Source Software Projects](#guideline-for-ai-generated-code-contributions-to-open-source-software-projects)
 
 ## DCO
 
