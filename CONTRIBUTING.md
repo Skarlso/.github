@@ -114,7 +114,7 @@ Follow these steps to do a release:
 2. Request reviews for the PR & merge it once it is approved.
 3. Navigate to the `Release` GitHub Action. Tick the box if this is a Release Candidate, otherwise leave it blank, and click to start the action. This will run the tests and linter, check that the release notes are present for this version, create a branch and a tag, and finally trigger the release using goreleaser.
 
-## Guideline for AI-generated code contributions to SAP Open Source Software Projects
+## Guideline for AI-generated code contributions to Open Source Software Projects
 
 As artificial intelligence evolves, AI-generated code is becoming valuable for many software projects, including open-source initiatives. While we recognize the potential benefits of incorporating AI-generated content into our open-source projects there a certain requirements that need to be reflected and adhered to when making contributions.
 
