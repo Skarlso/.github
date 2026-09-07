@@ -21,6 +21,7 @@ on:
     paths:
       - '.github/workflows/renovate.yml'
       - '.github/workflows/renovate-schedule.yml'
+      - '.github/renovate-central.json5'
       - '.github/renovate.json5'
       - '.github/renovate-repositories.json'
       - '.release-please-manifest.json'
