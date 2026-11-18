@@ -12,7 +12,7 @@ repository:
   squash_merge_commit_title: COMMIT_OR_PR_TITLE
 
 teams:
-- name: odg-maintainers
+- name: maintainers
   permission: admin
-- name: odg-collaborators
+- name: odg
   permission: push
